@@ -40,6 +40,7 @@ public class KeyboardFunctions {
 		}
 		Thread.sleep(2000);
 		webDriverUtility.enter();
+	
 		Thread.sleep(2000);
 		driver.close();
 	}
